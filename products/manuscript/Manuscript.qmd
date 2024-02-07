@@ -27,7 +27,10 @@ library(knitr)
 
 
 # Summary/Abstract
-_Write a summary of your project._
+The question I would like to explore is the mortality rates of Neurological Diseases in different regions of the United States and to view if there are any trends in mortality rates based region. I have downloaded a data sheet from the Centers for Disease Control that features total mortality for leading neurological diseases (Parkinson’s, Alzheimer’s, and Meningitis) taken from across the United States and spilt into 4 different regions (North East, South, Midwest, West). 
+
+The data is provided in an excel sheet in the “raw data” folder. 
+
 
 
 {{< pagebreak >}}
